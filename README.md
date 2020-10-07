@@ -1,3 +1,3 @@
 <h1> This is my github profile </h1>
 
-<p> I don't really know what to put here... </p>
+<p> I have no idea what I am doing... </p>
